@@ -13,5 +13,7 @@
     * Includes numerical features
   * Model building
     * Use lightGBM model
+  
+  **Notice**: This noteboook includes some interactive plots using plotly and the full version could be viewed by https://nbviewer.jupyter.org/
  
   
